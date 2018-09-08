@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../FizzBuzz/.idea/FizzBuzz.iml" filepath="$PROJECT_DIR$/../FizzBuzz/.idea/FizzBuzz.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/InteractiveDictionary.iml" filepath="$PROJECT_DIR$/.idea/InteractiveDictionary.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../PrimeNumberCheck/.idea/PrimeNumberCheck.iml" filepath="$PROJECT_DIR$/../PrimeNumberCheck/.idea/PrimeNumberCheck.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../ProblemSet1-2/.idea/ProblemSet1-2.iml" filepath="$PROJECT_DIR$/../ProblemSet1-2/.idea/ProblemSet1-2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../ProblemSet1-3/.idea/ProblemSet1-3.iml" filepath="$PROJECT_DIR$/../ProblemSet1-3/.idea/ProblemSet1-3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../ReverseString/.idea/ReverseString.iml" filepath="$PROJECT_DIR$/../ReverseString/.idea/ReverseString.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../SoftwareEngineerTestLuminus/.idea/SoftwareEngineerTestLuminus.iml" filepath="$PROJECT_DIR$/../SoftwareEngineerTestLuminus/.idea/SoftwareEngineerTestLuminus.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../pandas/.idea/pandas.iml" filepath="$PROJECT_DIR$/../pandas/.idea/pandas.iml" />
+    </modules>
+  </component>
+</project>

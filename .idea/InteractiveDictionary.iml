@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="PYTHON_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$">
+      <excludeFolder url="file://$MODULE_DIR$/venv" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module" module-name="ReverseString" />
+    <orderEntry type="module" module-name="FizzBuzz" />
+    <orderEntry type="module" module-name="PrimeNumberCheck" />
+    <orderEntry type="module" module-name="pandas" />
+    <orderEntry type="module" module-name="SoftwareEngineerTestLuminus" />
+    <orderEntry type="module" module-name="ProblemSet1-2" />
+    <orderEntry type="module" module-name="ProblemSet1-3" />
+  </component>
+  <component name="TestRunnerService">
+    <option name="PROJECT_TEST_RUNNER" value="Unittests" />
+  </component>
+</module>
